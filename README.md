@@ -15,7 +15,7 @@ The system retrieves relevant evidence from curated text chunks and generates gr
 
 ---
 
-## 🚀 Features
+## Features
 
 ### **1. Retrieval-Augmented Generation (RAG)**
 - TF-IDF similarity search  
@@ -37,9 +37,5 @@ Users can:
 
 ### **4. Streamlit Web App**
 - Clean minimal dark theme  
-- Fully deployable on Streamlit Cloud  
-
----
-
-## 📂 Project Structure
+- Fully deployable on Streamlit Cloud 
 
